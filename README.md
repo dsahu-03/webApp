@@ -22,6 +22,31 @@ JavaScript (Vanilla) – Dynamic content and API integration
 OpenWeatherMap API – Real-time weather data
 
 #Installation
-1. **Clone the repository:**
-   bash
-   git clone https://github.com/your-username/weather-app.git
+Clone the repository:
+   git clone https://github.com/dsahu-03/webApp.git
+
+Navigate to the project folder:
+cd webApp
+
+Open index.html in our browser:
+We can simply double-click the file or use Live Server in VS Code
+
+API Setup:
+You need an API key from OpenWeatherMap:
+Sign up for a free account.
+const API_KEY = "4a681026df8f1f3940b5f58a88fe39f2";
+
+File Structure
+webApp
+
+index.html     
+style.css        
+script.js     
+bg.jpg         
+README.md  
+
+How It Works:
+The user enters a city name.
+On clicking the search button, the app calls the weather API.
+Data like temperature, humidity, wind speed, and weather icon are shown.
+If the city is not found, the app displays a friendly alert.
