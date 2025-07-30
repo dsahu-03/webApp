@@ -2,8 +2,8 @@
 This is a sleek and responsive "Weather App" built with HTML, CSS, and JavaScript. It fetches real-time weather data using the OpenWeatherMap API (https://openweathermap.org/api) and displays it in a clean UI.
 
 ![Weather App Screenshot]
-<img width="400" height="400" alt="photo png" src="https://github.com/user-attachments/assets/eba9a14f-c245-4eca-b299-f04fac1438ae" />
-<img width="400" height="400" alt="photo2 png" src="https://github.com/user-attachments/assets/944f1a4f-ae25-4ad6-ae2f-6a81b62bb799" />
+<img width="500" height="500" alt="photo png" src="https://github.com/user-attachments/assets/eba9a14f-c245-4eca-b299-f04fac1438ae" />
+<img width="500" height="500" alt="photo2 png" src="https://github.com/user-attachments/assets/944f1a4f-ae25-4ad6-ae2f-6a81b62bb799" />
 
 #Features
 Search for any city in the world
